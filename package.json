@@ -1,0 +1,25 @@
+{
+  "name": "tsx-jsx",
+  "version": "1.0.0",
+  "description": "Example of using a JSX component with TypeScript",
+  "main": "null",
+  "scripts": {
+    "build": "webpack --progress --colors --profile",
+    "start": "webpack-dev-server"
+  },
+  "author": "Tom Fenech",
+  "license": "GPL-3.0",
+  "dependencies": {
+    "react": "^15.6.1"
+  },
+  "devDependencies": {
+    "@types/react": "^16.0.5",
+    "@types/react-dom": "^15.5.4",
+    "babel-cli": "^6.26.0",
+    "babel-preset-react": "^6.24.1",
+    "ts-loader": "^2.3.4",
+    "typescript": "^2.4.2",
+    "webpack": "^3.5.5",
+    "webpack-dev-server": "^2.7.1"
+  }
+}

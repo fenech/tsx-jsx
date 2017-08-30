@@ -1,0 +1,11 @@
+{
+    "compilerOptions": {
+        "alwaysStrict": true,
+        "noImplicitAny": true,
+        "noImplicitThis": true,
+        "jsx": "preserve",
+        "module": "es6",
+        "moduleResolution": "node",
+        "skipLibCheck": true
+    }
+}
